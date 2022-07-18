@@ -8,11 +8,23 @@ This is my updated personal portfolio page. It has been restyled a bit to help w
 
 Theres no installation needed, I have the page hosted here at Github.
 
-Link: [https://cliff-rosenberg.github.io/08-Portfolio-updated/](https://cliff-rosenberg.github.io/08-Portfolio-updated/)
+Link: [https://cliff-rosenberg.github.io/08-Portfolio-Updated/](https://cliff-rosenberg.github.io/08-Portfolio-Updated/)
 
 ## Screenshot:
 
 ![./assets/images/screenshot_animated.gif](./assets/images/screenshot_animated.gif)
+
+## Technologies Used
+
+The portfolio page is styled using the [Tailwind CSS framework.](https://tailwindcss.com/)
+
+Tailwind CSS provides five responsive 'breakpoints' by default:
+
+* `sm`  ->  640px minimum
+* `md`  ->  768px minimum
+* `lg`  -> 1024px minimum
+* `xl`  -> 1280px minimum
+* `2xl` -> 1536px minimum
 
 ## License
 
